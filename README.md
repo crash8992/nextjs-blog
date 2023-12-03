@@ -1,3 +1,10 @@
+##CREACIÓN DE UNA APP DE INGRESO DE DATOS PARA LA EMPRESA CRUZBLANCA S.A
+
+#UTPL TEC- DESAROLLO DE APLICACIONES NATIVAS EN CLOUD
+#CRISTIAN BRAVO
+
+El objetivo de la presente es presentar el front end para la creación de una aplicación que susutituya el papeleo actual en la empresa CruzBlanca S.A 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
